@@ -3,4 +3,4 @@ filters:
   file_format: STRUCTURED_JSON
   source_file : source/enGB.json
   source_language: en
-  translation_files_expression: 'tłumaczenie/<lang>/'
+  translation_files_expression: 'Translation/<lang>/'
