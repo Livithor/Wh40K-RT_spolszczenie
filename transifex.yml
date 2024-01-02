@@ -4,4 +4,4 @@ filters:
   source_file_extension: strings
   source_language: en
   source_file_dir: source/enGB.json
-  translation_files_expression: 'tłumaczenie/enGB.json'
+  translation_files_expression: 'tłumaczenie/<lang>/enGB.json'
