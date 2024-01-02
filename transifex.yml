@@ -3,5 +3,5 @@ filters:
   file_format: STRINGS
   source_file_extension: strings
   source_language: en
-  source_file_dir: locale/enGB.json
+  source_file_dir: enGB.json
   translation_files_expression: 'tłumaczenie/<lang>.po'
