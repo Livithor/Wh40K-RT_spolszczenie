@@ -1,6 +1,6 @@
 filters:
 - filter_type: file
-  file_format: STRUCTURED_JSON
+  file_format: KEYVALUEJSON
   source_file : source/enGB.json
   source_language: en
   translation_files_expression: 'Translation/<lang>/'
