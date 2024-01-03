@@ -2,6 +2,6 @@ git:
   filters:
   - filter_type: file
     source_file: source/enGB.json
-    file_format: KEYVALUEJSON
+    file_format: STRUCTURED_JSON
     source_language: en
     translation_files_expression: 'Translations/<lang>/'
