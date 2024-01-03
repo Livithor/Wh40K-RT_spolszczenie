@@ -1,6 +1,7 @@
+git:
 filters:
 - filter_type: file
-  file_format: KEYVALUEJSON
-  source_file : source/enGB.json
+  file_format: STRUCTURED_JSON
   source_language: en
-  translation_files_expression: 'Translation/<lang>/'
+  source_file: 'source/enGB.json'
+  translation_files_expression: 'Translations/<lang>/enGB.json'
